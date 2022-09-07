@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyShopQuanAo_AKD", "QuanLyShopQuanAo_ADK\QuanLyShopQuanAo_AKD.csproj", "{1B691104-BFB9-4DC6-ACD8-ED0C5D38BD85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThuVien", "ThuVien\ThuVien.csproj", "{C20AFE34-BB07-4FEE-93BB-69EF5B61B2C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B691104-BFB9-4DC6-ACD8-ED0C5D38BD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B691104-BFB9-4DC6-ACD8-ED0C5D38BD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B691104-BFB9-4DC6-ACD8-ED0C5D38BD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B691104-BFB9-4DC6-ACD8-ED0C5D38BD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20AFE34-BB07-4FEE-93BB-69EF5B61B2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20AFE34-BB07-4FEE-93BB-69EF5B61B2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20AFE34-BB07-4FEE-93BB-69EF5B61B2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20AFE34-BB07-4FEE-93BB-69EF5B61B2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
